@@ -5,5 +5,5 @@ Maintainer: Klonsha
 Depends: nodejs
 Filename: klonsha-pkg.deb
 Size: 2552
-SHA256: 0
+SHA256: d545d0d5f5403d7eaddf21bcd1c69c2f4e1dd4a93b005e4da4e15ed67662099b
 Description: Klonsha Language (beta)
