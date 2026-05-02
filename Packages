@@ -1,0 +1,9 @@
+Package: klonsha
+Version: 1.0.0
+Architecture: all
+Maintainer: Klonsha
+Depends: nodejs
+Filename: klonsha-pkg.deb
+Size: 2552
+SHA256: 0
+Description: Klonsha Language (beta)
